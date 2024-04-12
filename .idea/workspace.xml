@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9eef1eb-2a3a-479b-85d0-3ad7c547ab1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/inno/course/db/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/inno/course/db/EmployeeRepositoryJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/inno/course/db/model/EmployeeDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/inno/course/web/model/CreateCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/inno/course/web/model/CreateEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/inno/course/web/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Attestation2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/inno/course/EmployeeContractTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/inno/course/EmployeeTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/inno/course/XClientsWebClient.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2exokUgQFdvXj5JdCgNyE8SQntP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.EmployeeTests">
+    <configuration name="EmployeeContractTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Attestation2_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.inno.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.inno.course" />
+      <option name="MAIN_CLASS_NAME" value="ru.inno.course.EmployeeContractTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeContractTests.shouldChangeInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Attestation2_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.inno.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.inno.course" />
+      <option name="MAIN_CLASS_NAME" value="ru.inno.course.EmployeeContractTests" />
+      <option name="METHOD_NAME" value="shouldChangeInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeContractTests.shouldCreateEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Attestation2_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.inno.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.inno.course" />
+      <option name="MAIN_CLASS_NAME" value="ru.inno.course.EmployeeContractTests" />
+      <option name="METHOD_NAME" value="shouldCreateEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Attestation2_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.inno.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.inno.course" />
+      <option name="MAIN_CLASS_NAME" value="ru.inno.course.EmployeeTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTests.iCanGetEmployeeList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Attestation2_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.inno.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.inno.course" />
+      <option name="MAIN_CLASS_NAME" value="ru.inno.course.EmployeeTests" />
+      <option name="METHOD_NAME" value="iCanGetEmployeeList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeTests" />
+        <item itemvalue="JUnit.EmployeeContractTests" />
+        <item itemvalue="JUnit.EmployeeTests.iCanGetEmployeeList" />
+        <item itemvalue="JUnit.EmployeeContractTests.shouldCreateEmployee" />
+        <item itemvalue="JUnit.EmployeeContractTests.shouldChangeInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9eef1eb-2a3a-479b-85d0-3ad7c547ab1a" name="Changes" comment="" />
+      <created>1712855736197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712855736197</updated>
+    </task>
+    <servers />
+  </component>
+</project>
